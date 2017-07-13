@@ -30,3 +30,7 @@ Ist der Weg das Ziel? Die Vision und damit verknüpfte Ziele sollten nie aus dem
 
 ## WIR sind Profis
 Jeden Tag aufs Neue erstellen wir Programme aus dem Nichts ... Visionen werden zu handfesten Programmen!
+
+## Commitments
+Jedes Teammitglied commited sich darauf:
+* einen einheitlichen CodeStyle zuverwenden
