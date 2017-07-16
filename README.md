@@ -34,3 +34,9 @@ Jeden Tag aufs Neue erstellen wir Programme aus dem Nichts ... Visionen werden z
 ## Commitments
 Jedes Teammitglied commited sich darauf:
 * einen einheitlichen CodeStyle zuverwenden
+
+## Definition of done
+
+## Akzeptanztest Tools
+* [cucumber](https://cucumber.io/)
+* 
