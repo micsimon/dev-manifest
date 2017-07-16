@@ -40,3 +40,6 @@ Jedes Teammitglied commited sich darauf:
 ## Akzeptanztest Tools
 * [cucumber](https://cucumber.io/)
 * 
+
+## state of the art
+* https://www.jetbrains.com/research/devecosystem-2017/
